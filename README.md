@@ -13,7 +13,7 @@ Also, as you work, make at least three commits in git as you go with good, descr
 ## List Of The Websites To Choose From:
 
 - [Google](https://www.google.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
+- [DuckDuckGo]
 - [Facebook](https://www.facebook.com/) (when you are logged out!)
 - [Twitter](https://twitter.com/) (again, when logged out!)
 - [Ed Nacional](https://ednacional.com/)
